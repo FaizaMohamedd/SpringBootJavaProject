@@ -1,5 +1,6 @@
 THIS PROJECT PREPARED BY 
 FAIZA MOHAMED ALI 
+and
 SHAHAD IBRAAHIM MOHAMED  
 
 # Getting Started with Create React App
